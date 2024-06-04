@@ -1,6 +1,6 @@
 {
   "name": "camerapackagesanju",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "script.js",
   "scripts": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sanjaysanzu/webkitCamera/issues"
   },
-  "homepage": "https://github.com/sanjaysanzu/webkitCamera#readme"
+  "homepage": "https://github.com/sanjaysanzu/webkitCamera#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jquery-ui-dist": "^1.12.1",
+    "jquery-ui-touch-punch": "^0.2.3",
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
 }
